@@ -1,3 +1,6 @@
+# Netflix_Data_Analysis
+
+## Data 
 ![image](https://github.com/user-attachments/assets/0727af48-2d34-4eb0-9450-da1e127885bb)
 ### 1. How Many Titles Have A Runtime Of 100 Minutes?
 ![image](https://github.com/user-attachments/assets/c6b2d257-f85d-47b5-902c-0033da4a2ef3)
