@@ -1,5 +1,7 @@
-# Netflix_Data_Analysis
-
+# Netflix_Exploratetory Data_Analysis
+<img src="https://i.pinimg.com/originals/2d/97/92/2d97922c558c15f8850105e0498aeafb.gif" class="card-img-top" alt="Project 10">
+  
+This analysis delves into the Netflix dataset to uncover key insights about the platform's content offerings, focusing on runtime statistics, ratings, and release patterns. The main objectives include:
 ## Data 
 ![image](https://github.com/user-attachments/assets/0727af48-2d34-4eb0-9450-da1e127885bb)
 ### 1. How Many Titles Have A Runtime Of 100 Minutes?
